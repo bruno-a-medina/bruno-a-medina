@@ -1,23 +1,37 @@
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) My name is Bruno Medina
-=====================================================================================================================================
+<div align="center">
 
-Finance & Data Analyst | FP&A, Power BI, SQL, Python
-----------------------------------------------------
+# Hi, I'm Bruno Medina 👋
+### Finance & Data Analyst
 
-MS in Business Analytics (University of Miami) and BS in Finance (Florida State), with FP&A experience at Costa Farms and City National Bank. I’m happiest when a messy dataset turns into a decision someone can act on.
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1200&color=2C5364&center=true&vCenter=true&width=600&lines=FP%26A+%7C+Power+BI+%7C+SQL+%7C+Python;Turning+messy+data+into+decisions)](https://github.com/bruno-a-medina)
 
-* 🌍  I'm based in Miami, FL
-* 🖥️  See my portfolio at [Bruno-a-medina](http://github.com/bruno-a-medina)
-* ✉️  You can contact me at [bmedina.fl@gmail.com](mailto:bmedina.fl@gmail.com)
-* 🚀  I'm currently working on [Florida Bank Peer Benchmark](http://github.com/bruno-a-medina/florida-bank-benchmark)
-* 🧠  I'm currently learning Python for financial and credit risk modeling (pandas, ML), plus advanced SQL window functions
-* 👥  I'm looking to collaborate on Finance and analytics projects, data pipelines, and Power BI dashboards. And other interesting projects.
-* 💬  Ask me about South Florida runner and fantasy football nerd. I'm normally building models and budget or staying up late deciding which waiver-wire pickup is going to save my season. Always up for a run in Miami.
+</div>
 
-<p align="left">
-<a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" alt="Python" title="Python" width="36" height="36" /></a><a href="https://www.r-project.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/rlang-colored.svg" alt="rlang" title="rlang" width="36" height="36" /></a><a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/visualstudiocode-colored.svg" alt="VS Code" title="VS Code" width="36" height="36" /></a><a href="https://www.mysql.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mysql-colored.svg" alt="MySQL" title="MySQL" width="36" height="36" /></a><a href="https://www.postgresql.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/postgresql-colored.svg" alt="PostgreSQL" title="PostgreSQL" width="36" height="36" /></a>
-</p>
+MS in Business Analytics (University of Miami) and BS in Finance (Florida State), with FP&A experience at Costa Farms and City National Bank. I'm happiest when a messy dataset turns into a decision someone can act on.
 
-### Socials
+- 🌎 Based in Miami, FL
+- 🚀 Currently working on [Florida Bank Peer Benchmark](https://github.com/bruno-a-medina/florida-bank-benchmark)
+- 🧠 Learning Python for financial and credit risk modeling (pandas, ML), plus advanced SQL window functions
+- 🤝 Open to collaborating on finance and analytics projects, data pipelines, and Power BI dashboards
+- 🏃 South Florida runner and fantasy football nerd. Always up for a run in Miami.
 
-<p align="left"> <a href="https://www.github.com/bruno-a-medina" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" alt="GitHub" title="GitHub" /> </picture> </a> <a href="https://www.linkedin.com/in/bruno-a-medina" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" alt="LinkedIn" title="LinkedIn" /> </picture> </a> <a href="https://www.youtube.com/@bruno-a-medina" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/youtube-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/youtube.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/youtube.svg" width="32" height="32" alt="YouTube" title="YouTube" /> </picture> </a> <a href="https://discord.com/users/bruno2727" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg" width="32" height="32" alt="Discord" title="Discord" /> </picture> </a></p>
+## Skills
+
+![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
+![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white)
+![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white)
+
+[![Skills](https://skillicons.dev/icons?i=python,r,postgres,git,vscode)](https://skillicons.dev)
+
+## Featured projects
+
+| Project | What it does |
+|---|---|
+| [Florida Bank Peer Benchmark](https://github.com/bruno-a-medina/florida-bank-benchmark) | Python, SQL, and Power BI pipeline benchmarking six public Florida banks on FDIC data |
+| [Job Search Agent](https://github.com/bruno-a-medina/job-search-agent) | Multi-agent pipeline that sources, scores, and validates job postings daily |
+| [GENIE Dashboard](https://github.com/bruno-a-medina/genie-dashboard) | R Shiny app for exploring cancer genomics metadata (team project) |
+
+## Connect
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/bruno-a-medina)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:bmedina.fl@gmail.com)
