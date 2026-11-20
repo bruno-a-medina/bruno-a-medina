@@ -1,7 +1,6 @@
 <div align="center">
 
-# Hi, I'm Bruno Medina 👋
-### Finance & Data Analyst
+<img src="banner.png" alt="Bruno Medina, Finance & Data Analyst" width="100%">
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1200&color=2C5364&center=true&vCenter=true&width=600&lines=FP%26A+%7C+Power+BI+%7C+SQL+%7C+Python;Turning+messy+data+into+decisions)](https://github.com/bruno-a-medina)
 
